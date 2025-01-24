@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Python programming: forgetting to close files after opening them.  The bug.py file contains the buggy code, which fails to close a file. The bugSolution.py demonstrates the correct solution by using a 'with' statement or explicitly closing the file.
